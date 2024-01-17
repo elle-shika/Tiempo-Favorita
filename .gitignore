@@ -1,0 +1,5 @@
+# ignore database credentials
+.env
+
+# ignore project virtual environment
+venv/
